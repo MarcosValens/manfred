@@ -397,6 +397,10 @@
           "type": "technology"
         },
         {
+          "name": "Hibernate",
+          "type": "technology"
+        },
+        {
           "name": "Jenkins",
           "type": "technology"
         },
