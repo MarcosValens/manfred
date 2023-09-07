@@ -459,6 +459,31 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Postman Essential Training",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "LinkedIn",
+          "description": "APIs are increasingly becoming the staple of software development. But many software testers don’t know how to automate their API testing in a way that thoroughly checks an API’s functionality, which means that crucial testing is left undone. This course introduces the process of writing, running, and automating API tests with Postman. Instructor Kristin Jackvony explains what to test in an API endpoint, along with how to use authentication tokens in an API call, write good assertions, create test collections, and how to run the test collections from the command line.",
+          "URL": "https://www.linkedin.com/learning/certificates/5bb4af9f4df2c7f862e47ae49d367a35a746dc3bcf609a400e7139c6d234ed6c",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/91e83176-6c82-484d-a5f7-e6bfbdc5d74b_1693832954524.jpeg",
+            "alt": "1693832954524.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Postman",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Web.",
