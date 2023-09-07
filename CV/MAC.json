@@ -413,6 +413,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript avanzado: Buenas prácticas",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "LinkedIn",
+          "description": "Las buenas prácticas son un conjunto de recomendaciones basadas en las rutinas de otros desarrolladores y gracias a ellas, tu trabajo será más comprensible, mejor organizado y tendrá un mejor rendimiento. En este curso conocerás las buenas prácticas más populares y eficaces, que harán que tu trabajo como desarrollador usando JavaScript mejore y sea más práctico al trabajar en una nueva aplicación web. Estas buenas prácticas se convertirán en el set de acciones que incorporarás en cada proyecto web y que ayudarán a que tu código sea mejor.",
+          "URL": "https://www.linkedin.com/learning/certificates/691318659a6acefde7888c8bd89088074f88bf7395ed42208b2e3ca2e67482d0",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/60155328-c38b-4157-8780-f84e6acd73ef_1693550860570.jpeg",
+            "alt": "1693550860570.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Web.",
