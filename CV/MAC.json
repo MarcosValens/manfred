@@ -415,6 +415,35 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Angular avanzado: Trabajo con API",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "LinkedIn",
+          "description": "Comprende cómo funciona una API (interfaz de programación de aplicaciones) y cómo controlarla desde Angular, uno de los framework JavaScript más utilizados y respetados del mundo. Aprende en este curso usando una aplicación real que puedes utilizar como base para tus proyectos personales utilizando Angular, famoso en gran parte debido a su facilidad de integración con APIs.",
+          "URL": "https://www.linkedin.com/learning/certificates/feff08fefb5e0d3a8bcbc4a69f57e23ffcb36897eb2b5375636fde9fc018958c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BYlBMF8zzSgez2w7K5kqfFg%3D%3D",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/8f6f6585-21b0-41f9-bdd7-7799f491e8bc_1692878613530.jpeg",
+            "alt": "1692878613530.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "JavaScript avanzado: Buenas prácticas",
         "startDate": "2023-09-01",
         "institution": {
