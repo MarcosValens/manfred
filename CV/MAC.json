@@ -388,6 +388,31 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": ".NET with C# Essentials: Enhance Application Productivity and Performance",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "LinkedIn",
+          "description": "Microsoft .NET is a modern, cross-platform framework for developing applications for the web, desktop, and mobile devices. This course gives an introduction to some of the features of .NET that makes building applications easier, more performant, and more productive. Veteran technologist Joe Marini demonstrates how to use built-in capabilities of .NET such as string processing, data collection types, number and date formatting, reading and writing files, and even working with regular expressions. By using these built-in features, developers can focus on their core application logic and less on having to build common capabilities from scratch.",
+          "URL": "https://www.linkedin.com/learning/certificates/6400b69be03def83e9c1bdbe3b7202e226331bcac5b9352020493131fbfef8b0",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/130d1fe1-bf03-4ebc-9af1-efebb41135e6_1693559480456.jpeg",
+            "alt": "1693559480456.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Web.",
