@@ -360,6 +360,36 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": " Técnico en Preimpresión Digital",
+        "startDate": "2001-09-01",
+        "institution": {
+          "name": "I.E.S. Josep María Llompart",
+          "description": "Curso formativo para ejercer en empresas de artes gráficas, prensa, editoriales, comunicación, publicidad, servicios gráficos y de publicaciones multimedia o en cualquier sector productivo las empresas del cual requieran de un departamento de preimpresión digital que puedan tener sección de digitalización de imágenes, realización de publicaciones electrónicas, tratamiento de textos e imágenes, compaginación y maquetación, imposición de páginas, obtención digital de formas impresoras e impresión digital.",
+          "URL": "https://maxconn.iesllompart.cat/formacio-professional/40-oferta-educativa/cicles-formatius/40-preimpressio-digital",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/b5ff07c3-1fb5-4947-9665-b90b51ad8fc7_logocolor134x80.jpeg",
+            "alt": "logocolor134x80.jpeg"
+          }
+        },
+        "finishDate": "2003-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Adobe Illustrator",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Photoshop",
+            "type": "technology"
+          },
+          {
+            "name": "QuarkXpress",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Web.",
         "startDate": "2017-09-01",
         "institution": {
