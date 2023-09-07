@@ -1,0 +1,405 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marcos",
+      "surnames": "Valens",
+      "title": "Web Application Developer",
+      "description": "Me gusta lo que hago, tanto que ahora ¡ya no me cuesta madrugar! Ahora que ya tengo experiencia laboral si que puedo decir que estoy capacitado y preparado para afrontar proyectos grandes tanto en la parte front-end como en back-end. He cambiado mi vida profesional en busca de lo que de verdad me apasiona que es la informática pero desde luego tengo muchas otras aptitudes que he ganado en los demas oficios que he tenido.\nConsidero que soy una persona de equipo, con facilidad de adaptación y puedo ser esa persona del grupo que hace que el grupo de trabajo esté más unido.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/06/11f404e2-ce27-49f7-a96f-b77feee92b45_marcsoavatar.png",
+        "alt": "marcsoAvatar.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJV8caxlmSlxIRxljQwwZUDcQ)",
+        "country": "España",
+        "region": "Islas Baleares",
+        "municipality": "Palma"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Logitravel",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/28c5cfd4-98a9-4321-ae3d-b19624af13df_descarga.png",
+            "alt": "descarga.png"
+          },
+          "URL": "https://www.logitravel.com"
+        },
+        "roles": [
+          {
+            "name": "Web Application Developer",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Como desarrollador full-stack mis principales tareas era el desarrollo de API's en el back y las llamadas a estas desde el front, desde donde hago los propios componentes de Angular. Trabajamos principalmente con .NET, Angular y PostgreSQL.\nTambién me encargo de desplegar (y hacer roll-back si es necesario) mis propios desarrollos a través de Azure.\nUsamos la metodología SCRUM que gestionamos a través de Jira."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Taxis Palma",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/9e6c4955-1458-4e2e-82e4-ef887ad70416_logo-taxi-mallorca.jpg",
+            "alt": "logo-taxi-mallorca.jpg"
+          },
+          "URL": "https://www.mobipalma.mobi/mobilitat/transport/taxi/"
+        },
+        "roles": [
+          {
+            "name": "Chófer",
+            "startDate": "2012-05-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "- Transporte de clientes por toda la isla de Mallorca.\n- Gran capacidad de comunicación con el cliente en varios idiomas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Activais (Bureau Veritas)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/c375db99-d7c1-45c0-97a0-9be9a679d473_activais2.jpeg",
+            "alt": "Activais2.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico inspector de gas canalizado",
+            "startDate": "2008-01-01",
+            "finishDate": "2012-01-01",
+            "challenges": [
+              {
+                "description": "- Pruebas de estanqueidad en instalaciones tanto comunes como individuales.\n- Instalación de contadores de gas canalizado.\n- Pruebas de combustión de CO2 para aparatos de menos de 70KW"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular Universal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache Tomcat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Quasar",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RxJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/marcosvalens",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/14714810/marcos?tab=profile",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/MarcosValens",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "marcosvalens@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "685348612",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular Universal",
+        "type": "technology"
+      },
+      {
+        "name": "C#",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "RxJS",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría trabajar en una empresa con ambición y que quiera competir de tu a tu con la competencia. Que sea dinámica con las tecnologías y este abierta a hacer cambios a mejor con las nuevas tecnologías. \nSoy una persona a la que le gusta estar con más gente así que para mí el equipo debe ser gente con la que además de trabajar, te lo puedas pasar bien. Esto hace que yo sea más de trabajar en la oficina que teletrabajando, pero se agradece la posibilidad de poder cambiar si es necesario. El horario flexible también es una cosa que valoro.\nPara mi el poder seguir formándome mié tras trabajo es vital y el poder aplicar los nuevos conocimientos adquiridos es en sí ya una recompensa."
+  }
+}
