@@ -356,6 +356,58 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web.",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "C.P. Es Lliceu",
+          "description": "\nLa competencia general de este ciclo es el desarrollo, implantación y mantenimiento de aplicaciones web, con independencia del modelo empleado y utilizando tecnologías específicas, garantizando el acceso a los datos de una manera segura y bajo criterios de accesibilidad, usabilidad y calidad que son exigidas por los estándares establecidos.",
+          "URL": "https://fp.esliceu.com/formacio-professional-grau-superior/cfgs-desenvolupament-web/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/08d1610b-798c-479f-969e-8e2262e52896_es-liceu.jpg",
+            "alt": "Es-Liceu.jpg"
+          }
+        },
+        "finishDate": "2020-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Apache Tomcat",
+            "type": "technology"
+          },
+          {
+            "name": "Hibernate",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Quasar",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
