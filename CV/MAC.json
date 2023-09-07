@@ -26,6 +26,21 @@
         "topic": "Sobre mi",
         "fact": "Soy un apasionado desarrollador Full Stack y realmente amo mi trabajo. Me emociona la idea de crear aplicaciones y sistemas completos, desde el backend hasta el frontend. Poder ver cómo mis ideas cobran vida en forma de software funcional es algo que disfruto enormemente.\n\n En el ámbito laboral, siempre trato de integrarme rápidamente con los equipos en los que trabajo. Creo que la comunicación efectiva y un ambiente de colaboración son clave para el éxito de cualquier proyecto.\n\nEn mi tiempo libre, tengo varios intereses. Soy un gran fanático de los videojuegos y me aseguro de estar al día con las últimas novedades en la industria. Los videojuegos no solo son una fuente de entretenimiento para mí, sino que también me ayudan a mantenerme actualizado en las tendencias tecnológicas.\n\nEl deporte también es (o era :_(   ) una parte importante de mi vida. Creo que mantenerse activo es esencial para mantener un equilibrio. Ya sea correr, jugar al fútbol o ir al gimnasio, aunque últimamente no tenga tanto tiempo como desearía.\n\nCuando tengo tiempo intento ver o leer las series, películas, libros y animes que me interesan, pero últimamente hay demasiadas cosas y no hay tiempo físico. Mis géneros favoritos son la fantasía, el terror y la ciencia ficción. También me gusta mucho los juegos de mesa y si incluyen lápices y dados, todavía mejor.\n\nPor último, pero definitivamente no menos importante, mi hija ocupa una gran parte de mi vida en este momento. Estoy comprometido a ser un padre dedicado y equilibrar mis responsabilidades familiares con mi carrera y mis aficiones.\n\nResumiendo, soy un padre friki :)"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "MonnaLisa Palma",
+        "type": "other",
+        "URL": "https://www.monnalisapalma.com/",
+        "summary": "Este es uno de los proyectos que me cayeron de rebote, ya estaba empezado y por ese entonces todavía no tenia trabajo. Es un proyecto hecho en WordPress y toda la experiencia que tengo con WordPress la he adquirido aquí. He de decir que no es un proyecto con el que me encuentre a gusto pues no termina de gustarme WordPress, su sistema para hacer cambios y hacer el proyecto escalable es muy limitado y estas muy atado a la hora de querer implementar mejoras",
+        "authors": [
+          {
+            "name": "Xisco",
+            "surnames": "Vich Fraile y Marcos Valens Fraile",
+            "title": "Author"
+          }
+        ]
+      }
     ]
   },
   "experience": {
@@ -491,6 +506,12 @@
       }
     ],
     "desiredJobDescription": "Me gustaría trabajar en una empresa con ambición y que quiera competir de tu a tu con la competencia. Que sea dinámica con las tecnologías y este abierta a hacer cambios a mejor con las nuevas tecnologías. \nSoy una persona a la que le gusta estar con más gente así que para mí el equipo debe ser gente con la que además de trabajar, te lo puedas pasar bien. Esto hace que yo sea más de trabajar en la oficina que teletrabajando, pero se agradece la posibilidad de poder cambiar si es necesario. El horario flexible también es una cosa que valoro.\nPara mi el poder seguir formándome mié tras trabajo es vital y el poder aplicar los nuevos conocimientos adquiridos es en sí ya una recompensa.",
-    "goodPractices": "Como desarrollador Full Stack, mi enfoque se basa en aplicar los principios SOLID en cada etapa del proceso de desarrollo.\n\nLa documentación del código es un aspecto que considero esencial. Creo en la importancia de escribir código bien documentado. Esto no solo implica tener nombres de variables y funciones descriptivos, sino también explicar la lógica detrás de mi implementación y cómo se relaciona con la funcionalidad que se busca lograr. La documentación facilita la colaboración y el mantenimiento del código a lo largo del tiempo.\n\nAdemás, disfruto trabajar en equipo y aplicar la programación en parejas siempre que sea posible. La colaboración con otros desarrolladores no solo mejora la calidad del código, sino que también amplía mis horizontes y me expone a diferentes perspectivas y enfoques.\n\nSigo aprendiendo y me mantengo al tanto de las últimas tendencias y buenas prácticas a través de libros, eventos especializados y comunidades en línea. En el mundo de la tecnología, la curiosidad y el aprendizaje continuo son esenciales para mantenerse actualizado y seguir ofreciendo soluciones de alta calidad."
+    "goodPractices": "Como desarrollador Full Stack, mi enfoque se basa en aplicar los principios SOLID en cada etapa del proceso de desarrollo.\n\nLa documentación del código es un aspecto que considero esencial. Creo en la importancia de escribir código bien documentado. Esto no solo implica tener nombres de variables y funciones descriptivos, sino también explicar la lógica detrás de mi implementación y cómo se relaciona con la funcionalidad que se busca lograr. La documentación facilita la colaboración y el mantenimiento del código a lo largo del tiempo.\n\nAdemás, disfruto trabajar en equipo y aplicar la programación en parejas siempre que sea posible. La colaboración con otros desarrolladores no solo mejora la calidad del código, sino que también amplía mis horizontes y me expone a diferentes perspectivas y enfoques.\n\nSigo aprendiendo y me mantengo al tanto de las últimas tendencias y buenas prácticas a través de libros, eventos especializados y comunidades en línea. En el mundo de la tecnología, la curiosidad y el aprendizaje continuo son esenciales para mantenerse actualizado y seguir ofreciendo soluciones de alta calidad.",
+    "bookmarks": [
+      {
+        "name": "MonnaLisa Palma",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/63e9f143-63b1-47f0-a0fd-282575cd86da_logo_monnalisa_texto.png"
+      }
+    ]
   }
 }
