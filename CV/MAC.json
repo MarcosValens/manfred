@@ -444,6 +444,35 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Análisis de Datos y Gráficos con Python: Panda y Matplotlib",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "En este curso te enseñare desde 0 Python (en el caso que lo necesites). Veremos todo lo que necesitas para realizar el curso.\n\nPara luego avanzaremos con el Análisis de datos con la librería Pandas. Esta increíble herramienta te permite moldear los datos en base a lo que quieres analizar y así visualizarlos de una mejor manera.\n\nAl final del curso aprenderemos la librería Matplotlib de Python, la cual nos permite graficar a nuestro gusto y de diferentes maneras los datos que queremos analizar y representar.\n\nAprovecha ya mismo en aprender estas herramientas en un mercado donde el análisis de datos es cada vez más requerido.",
+          "URL": "https://www.udemy.com/certificate/UC-726172ce-6848-4a16-9de0-2db9c3f1fd0b/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/5f868d90-0e19-4cd0-a93b-4b570b7eec77_uc-726172ce-6848-4a1.jpg",
+            "alt": "UC-726172ce-6848-4a16-9de0-2db9c3f1fd0b.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "JavaScript avanzado: Buenas prácticas",
         "startDate": "2023-09-01",
         "institution": {
