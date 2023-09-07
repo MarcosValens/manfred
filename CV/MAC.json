@@ -434,6 +434,31 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Learning Git and GitHub",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "LinkedIn",
+          "description": "Version Control lets you manage changes you've made to files over time, and is an essential skill for developers to master. Git is by far the most popular version control system on the web. In this fast-paced course, Ray Villalobos shows you the fundamental commands that you need to work with most Git projects. He explains how to use checkpoints called commits, which let you leave messages documenting what happened at each checkpoint, as well as how to create branches that are alternate versions of your project that you can work on without changing the original. Plus, he shows how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.",
+          "URL": "https://www.linkedin.com/learning/certificates/393e6e3f40b863c0e3a7ff16f29298f213f7d1fc0be20a10396bc923aa013a57",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/9b83bdb1-97b6-428e-b7b3-5a7d6ee6db66_1693816248029.jpeg",
+            "alt": "1693816248029.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Web.",
