@@ -484,6 +484,39 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "RxJS nivel PRO",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Este curso es una guía práctica completa de la librería RxJS (Reactive Extensions para Javascript).\n\nA lo largo de este curso vas a entender de verdad qué es y para qué sirve RxJS, y vas a habituarte a solucionar problemas mediante RxJS, siguiendo una aproximación reactiva.\n\nEl curso se divide en una sección teórica donde entenderás los principios y patrones en los que se basa RxJS, y varias secciones prácticas donde aprenderás a usar RxJS en profundidad y acabarás incorporando la programación reactiva a tus herramientas de trabajo. Finalmente, en el ejercicio final diseñarás toda la lógica de un juego mediante RxJS.\n\nAdemás, aunque el curso es platform agnostic y te enseño a utilizar RxJS sin ningún framework, hay un bonus final para los Angular lovers, donde verás cómo se integra RxJS en Angular, para que puedas sacarle el máximo provecho.\n\nYa seas de Angular, de React, de Vue o de ninguno, este curso te va a convertir en un profesional de RxJS.",
+          "URL": "https://www.udemy.com/certificate/UC-ff838135-b89e-4072-ac35-442fc469371e/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/d006d19d-749e-40d2-9f6b-1aed2f118a74_uc-ff838135-b89e-407.jpg",
+            "alt": "UC-ff838135-b89e-4072-ac35-442fc469371e.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "RxJS",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Web.",
