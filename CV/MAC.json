@@ -252,6 +252,12 @@
       },
       {
         "skill": {
+          "name": "Nuxt.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
           "type": "technology"
         }
@@ -419,10 +425,6 @@
       },
       {
         "name": "RxJS",
-        "type": "technology"
-      },
-      {
-        "name": "Vue",
         "type": "technology"
       }
     ],
