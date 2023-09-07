@@ -192,6 +192,12 @@
       },
       {
         "skill": {
+          "name": "ES7",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
