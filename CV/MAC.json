@@ -719,6 +719,31 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "VueJS + Django",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Vue (pronunciado /vjuː/, como view) es un framework progresivo para construir interfaces de usuario. A diferencia de otros frameworks monolíticos, Vue está diseñado desde cero para ser utilizado incrementalmente. La librería central está enfocada sólo en la capa de visualización, y es fácil de utilizar e integrar con otras librerías o proyectos existentes. Por otro lado, Vue también es perfectamente capaz de impulsar sofisticadas Single-Page Applications cuando se utiliza en combinación con herramientas modernas y librerías de apoyo.",
+          "URL": "https://www.udemy.com/certificate/UC-bc828e30-2e47-488a-a1ce-6dcc72a6a7de/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/10/48e655f5-cc9a-4949-b55b-ba5aec608484_uc-bc828e30-2e47-488.jpg",
+            "alt": "UC-bc828e30-2e47-488a-a1ce-6dcc72a6a7de.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
