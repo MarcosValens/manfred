@@ -41,6 +41,20 @@
           }
         ]
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marcosvalens"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/MarcosValens"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/14714810/marcos?tab=profile"
+      }
     ]
   },
   "experience": {
