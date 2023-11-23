@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,8 +11,8 @@
       "title": "Web Application Developer",
       "description": "Me gusta lo que hago, tanto que ahora ¡ya no me cuesta madrugar! Ahora que ya tengo experiencia laboral si que puedo decir que estoy capacitado y preparado para afrontar proyectos grandes tanto en la parte front-end como en back-end. He cambiado mi vida profesional en busca de lo que de verdad me apasiona que es la informática pero desde luego tengo muchas otras aptitudes que he ganado en los demas oficios que he tenido.\nConsidero que soy una persona de equipo, con facilidad de adaptación y puedo ser esa persona del grupo que hace que el grupo de trabajo esté más unido.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/06/11f404e2-ce27-49f7-a96f-b77feee92b45_marcsoavatar.png",
-        "alt": "marcsoAvatar.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/23/4a634806-9ede-4082-bbe6-156f85948f14_marcos-valens-fraile.jpg",
+        "alt": "MARCOS VALENS  FRAILE_AM20609_   57811978.jpg"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJV8caxlmSlxIRxljQwwZUDcQ)",
@@ -52,7 +52,7 @@
         "URL": "https://github.com/MarcosValens"
       },
       {
-        "type": "other",
+        "type": "stackoverflow",
         "URL": "https://stackoverflow.com/users/14714810/marcos?tab=profile"
       }
     ]
@@ -159,14 +159,17 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
