@@ -72,6 +72,7 @@
           {
             "name": "Web Application Developer",
             "startDate": "2021-09-01",
+            "finishDate": "2024-07-01",
             "challenges": [
               {
                 "description": "Como desarrollador full-stack mis principales tareas era el desarrollo de API's en el back y las llamadas a estas desde el front, desde donde hago los propios componentes de Angular. Trabajamos principalmente con .NET, Angular y PostgreSQL.\nTambién me encargo de desplegar (y hacer roll-back si es necesario) mis propios desarrollos a través de Azure.\nUsamos la metodología SCRUM que gestionamos a través de Jira."
