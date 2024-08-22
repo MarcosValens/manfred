@@ -159,7 +159,7 @@
     "languages": [
       {
         "name": "CA",
-        "fullName": "Catalán",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
@@ -224,24 +224,6 @@
       },
       {
         "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES7",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES8",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -266,7 +248,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -712,7 +694,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -802,12 +784,6 @@
       ],
       "contactMails": [
         "marcosvalens@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "685348612",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
