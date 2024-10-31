@@ -917,6 +917,10 @@
           "type": "technology"
         },
         {
+          "name": "SQLServer",
+          "type": "technology"
+        },
+        {
           "name": "Swift",
           "type": "technology"
         },
