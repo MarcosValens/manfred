@@ -254,6 +254,12 @@
       },
       {
         "skill": {
+          "name": "Blazor",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C#",
           "type": "technology"
         }
@@ -363,6 +369,12 @@
       {
         "skill": {
           "name": "RxJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
           "type": "technology"
         }
       },
@@ -926,6 +938,10 @@
     "mainStackTechs": [
       {
         "name": "Angular Universal",
+        "type": "technology"
+      },
+      {
+        "name": "Blazor",
         "type": "technology"
       },
       {
