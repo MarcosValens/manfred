@@ -853,6 +853,10 @@
           "type": "technology"
         },
         {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
           "name": "API",
           "type": "technology"
         },
@@ -938,12 +942,6 @@
         },
         {
           "name": "Vue",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "Blazor",
           "type": "technology"
         }
       ],
