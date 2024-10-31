@@ -873,6 +873,10 @@
           "type": "technology"
         },
         {
+          "name": "Blazor",
+          "type": "technology"
+        },
+        {
           "name": "C#",
           "type": "technology"
         },
