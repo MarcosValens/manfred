@@ -897,6 +897,10 @@
           "type": "technology"
         },
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "Jenkins",
           "type": "technology"
         },
