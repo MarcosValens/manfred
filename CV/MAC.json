@@ -941,6 +941,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "Blazor",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
