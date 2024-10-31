@@ -943,10 +943,6 @@
       ],
       "discardedCompetences": [
         {
-          "name": ".NET",
-          "type": "technology"
-        },
-        {
           "name": "Blazor",
           "type": "technology"
         }
