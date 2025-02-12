@@ -844,6 +844,12 @@
       ],
       "contactMails": [
         "marcosvalens@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "685348612",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
