@@ -230,12 +230,6 @@
       },
       {
         "skill": {
-          "name": ".Net Core",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Angular Universal",
           "type": "technology"
         }
