@@ -674,6 +674,35 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Máster en Blazor - Server y WebAssembly (WASM) (.NET 9)",
+        "startDate": "2025-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Este curso es una formación completa en desarrollo web con .NET Blazor, abarcando tanto Blazor Server como Blazor WebAssembly. Está diseñado para principiantes y desarrolladores con experiencia, enseñando desde los fundamentos hasta la implementación de proyectos avanzados. Entre los temas clave se incluyen enrutamiento, inyección de dependencias, autenticación y autorización con Identity, integración con API RESTful en .NET 8, consumo de API con Blazor WebAssembly, y publicación en Azure. Además, se exploran patrones de diseño, integración con JavaScript, y herramientas como Bootstrap y Radzen Blazor.",
+          "URL": "https://www.udemy.com/certificate/UC-0f76f168-ca37-4a36-81ba-4b40b15151ae/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/15/51b398f6-fd31-4fba-a819-e6350f2ca5e4_uc-0f76f168-ca37-4a3.jpg",
+            "alt": "UC-0f76f168-ca37-4a36-81ba-4b40b15151ae.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Blazor",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Postman Essential Training",
         "startDate": "2023-09-01",
         "institution": {
