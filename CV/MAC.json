@@ -63,6 +63,49 @@
         "organization": {
           "name": "Roibos",
           "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/11/b4a5e2b7-b97b-4639-9bd9-83efa08fe460_1000038201.png",
+            "alt": "1000038201.png"
+          },
+          "URL": "Https://www.roibos.com"
+        },
+        "roles": [
+          {
+            "name": "Analista Informático y Project Manager",
+            "startDate": "2025-08-01",
+            "challenges": [
+              {
+                "description": "En Roibos, un marketplace B2B que conecta hoteles con agencias de viaje mediante una plataforma avanzada de reservas, desempeño el puesto de Analista Informático y Project Manager.\nMis funciones incluyen el análisis de requisitos técnicos, la coordinación de tareas de desarrollo y la supervisión de un pequeño equipo para garantizar una entrega eficiente de los proyectos. Además, participo en decisiones de arquitectura, gestiono integraciones del sistema y contribuyo a la mejora continua de las herramientas y procesos internos."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Blazor",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Roibos",
+          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/22/95fbe95e-19d6-49f0-aa0b-d3d3ee6722f5_roibos.png",
             "alt": "roibos.png"
           },
