@@ -200,28 +200,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Taxis Palma",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/9e6c4955-1458-4e2e-82e4-ef887ad70416_logo-taxi-mallorca.jpg",
-            "alt": "logo-taxi-mallorca.jpg"
-          },
-          "URL": "https://www.mobipalma.mobi/mobilitat/transport/taxi/"
-        },
-        "roles": [
-          {
-            "name": "Chófer",
-            "startDate": "2012-05-01",
-            "finishDate": "2018-09-30",
-            "challenges": [
-              {
-                "description": "- Transporte de clientes por toda la isla de Mallorca.\n- Gran capacidad de comunicación con el cliente en varios idiomas."
-              }
-            ]
-          }
-        ]
       }
     ]
   },
