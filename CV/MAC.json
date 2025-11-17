@@ -222,27 +222,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Activais (Bureau Veritas)",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/c375db99-d7c1-45c0-97a0-9be9a679d473_activais2.jpeg",
-            "alt": "Activais2.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Técnico inspector de gas canalizado",
-            "startDate": "2008-01-01",
-            "finishDate": "2012-01-01",
-            "challenges": [
-              {
-                "description": "- Pruebas de estanqueidad en instalaciones tanto comunes como individuales.\n- Instalación de contadores de gas canalizado.\n- Pruebas de combustión de CO2 para aparatos de menos de 70KW"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
